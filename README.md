@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a01akshat&label=Profile%20views&color=0e75b6&style=flat" alt="a01akshat" /> </p>
 
-- 🔭 I’m currently working on **ReactJS**
+- 🔭 I’m currently working on **NextJS**
 
-- 🌱 I’m currently learning **ReactJs,JavaScript,CSS**
+- 🌱 I’m currently learning **NextJS,ReactJs,JavaScript,CSS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/A01Akshat](https://github.com/A01Akshat)
 
