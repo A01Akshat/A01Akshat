@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **akshat29december@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1pDYURdKzLA3uzvwAtXLOZ2VhJt4JB60H/view?usp=sharing](https://drive.google.com/file/d/1pDYURdKzLA3uzvwAtXLOZ2VhJt4JB60H/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1pDYURdKzLA3uzvwAtXLOZ2VhJt4JB60H/view?usp=sharing](https://drive.google.com/file/d/12LP3nIhG0BOII18LAw8ICU85T3jdayzl/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
