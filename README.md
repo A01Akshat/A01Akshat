@@ -27,3 +27,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=a01akshat&show_icons=true&locale=en" alt="a01akshat" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=a01akshat&" alt="a01akshat" /></p>
+[![An image of @a01akshat's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/a01akshat)](https://holopin.io/@a01akshat)
